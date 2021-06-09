@@ -27,7 +27,8 @@ The purpose of this project was to objectively measure the quality of data for c
 
         •	Custom Rule based validation
     
-*this work was done through a tool called Collibra. More details on this process can be seen in the project Data Quality ESG (add link)
+*this work was done through a tool called Collibra. More details on this process can be seen in the project Data Quality ESG 
+(https://github.com/jermason95/Data-Certification-and-Quality-Improvement/blob/6f2d5769ad9dd51cdaba61b3b47865b56de81899/README.md)
 
 #### 2. Defining Business Rules
 
